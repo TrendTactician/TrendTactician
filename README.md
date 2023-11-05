@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Quantitative Finance**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
-- 📝 I regularly write articles on **Finance & Technology**
+- 📝 I like to write articles on **Finance & Technology**
 - ⚡ Fun fact **Sometimes I read documentation!!**
 <!-- 👨‍💻 All of my projects are available at -->
 
