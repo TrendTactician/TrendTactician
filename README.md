@@ -40,7 +40,7 @@
 - ⚡ Fun fact about me **Sometimes I read documentation**
 <!-- 👨‍💻 All of my projects are available at -->
 
- <h3 align="left">Connect with me:</h3>
+ <!-- <h3 align="left">Connect with me:</h3>
   <div align="center">
   <a href="https://www.youtube.com/test1233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="35" alt="youtube logo"  />
@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/test124" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="35" alt="facebook logo"  />
   </a>
-</div> 
+</div> -->
 
 <!-- [![website](./img/globe-light.svg)](https://test122.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://test122.com#gh-dark-mode-only)
