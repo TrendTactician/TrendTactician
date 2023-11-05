@@ -1,4 +1,6 @@
-<h1 align="center">Hi There 👋, I'm Saurabh</h1>
+<h1 align="center">Hi There <img src="[https://github.com/SpQpS/SpQpS/blob/main/greetings.gif?raw=true](https://tenor.com/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014)" width="30" height="30" alt="👋">, I'm Saurabh
+
+<!-- <h1 align="center">Hi There 👋, I'm Saurabh</h1> -->
 <h3 align="center">A Lazy Implementation Engineer with brain to get things done quickly & smartly</h3>
 
 ###
