@@ -36,8 +36,8 @@
 
 - 🌱 I’m currently learning **Quantitative Finance**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
-- 📝 I like to write articles on **Finance & Technology**
-- ⚡ Fun fact **Sometimes I read documentation!!**
+- 💡 I have a keen interest in **Finance & Technology**
+- ⚡ Fun fact about me **Sometimes I read documentation**
 <!-- 👨‍💻 All of my projects are available at -->
 
 <!-- <h3 align="left">Connect with me:</h3>
