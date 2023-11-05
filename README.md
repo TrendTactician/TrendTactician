@@ -1,4 +1,25 @@
-<h1 align="center">Hi There <img src="[https://github.com/SpQpS/SpQpS/blob/main/greetings.gif?raw=true](https://tenor.com/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014)" width="30" height="30" alt="👋">, I'm Saurabh
+
+<h1 align="center">Hi There<img src="https://github.com/SpQpS/SpQpS/assets/87906226/87250673-921f-4513-8547-e23c9c4e21c1" width="50" height="40">, I'm Saurabh</h1>
+
+<!-- <style>
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(20deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(-20deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+</style> 
 
 <!-- <h1 align="center">Hi There 👋, I'm Saurabh</h1> -->
 <h3 align="center">A Lazy Implementation Engineer with brain to get things done quickly & smartly</h3>
