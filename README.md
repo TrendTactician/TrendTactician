@@ -126,7 +126,7 @@
 
 ###
 
-![Snake animation](https://github.com/spqps/spqps/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/spqps/spqps/blob/output/github-contribution-grid-snake.svg)
 
 
 
