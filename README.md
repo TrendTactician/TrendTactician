@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi There<img src="https://github.com/SpQpS/SpQpS/assets/87906226/87250673-921f-4513-8547-e23c9c4e21c1" width="40" height="30">, I'm Saurabh</h1>
+<h1 align="center">Hi There<img src="https://github.com/SpQpS/SpQpS/assets/87906226/7e211df2-08b1-4e40-a1cf-981443eafb95" width="40" height="35">, I'm Saurabh</h1>
+
 
 <!-- <style>
 @keyframes wave {
