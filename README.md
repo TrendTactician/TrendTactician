@@ -29,7 +29,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spqps&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=spqps&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spqps&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=spqps&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> -->
   
 </div>
 
@@ -125,14 +126,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
-###
-
-<!--![Snake animation](https://github.com/spqps/spqps/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<!-- <br clear="both">
-
-<img src="https://raw.githubusercontent.com/spqps/spqps/output/snake.svg" alt="Snake animation" />
 
 ###
+
