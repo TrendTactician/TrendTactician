@@ -23,7 +23,7 @@
 </style> 
 
 <!-- <h1 align="center">Hi There 👋, I'm Saurabh</h1> -->
-<h3 align="center">A Lazy Implementation Engineer with brain to get things done quickly & smartly</h3>
+<h3 align="center">I like crafting efficient code but also believe great documentation is just as essential !</h3>
 
 ###
 
