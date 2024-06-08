@@ -20,10 +20,14 @@
     transform: rotate(0deg);
   }
 }
-</style> 
+</style> -->
+
+<p align="center">
+  <a align="center" href="https://github.com/spqps/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&center=true&random=false&width=750&lines=I+like+crafting+efficient+code+but+also+believe+in+great+documentations+!;%E7%A7%81%E3%81%AF%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E5%84%AA%E3%82%8C%E3%81%9F%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%82%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82;Ich+mag+es%2C+effizienten+Code+zu+erstellen%2C+glaube+aber+auch+an+gro%C3%9Fartige+Dokumentationen!;+%E0%A4%AE%E0%A5%81%E0%A4%9D%E0%A5%87+%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A4%B2+%E0%A4%95%E0%A5%8B%E0%A4%A1+%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE+%E0%A4%AA%E0%A4%B8%E0%A4%82%E0%A4%A6+%E0%A4%B9%E0%A5%88+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%AC%E0%A5%87%E0%A4%B9%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%A8+%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AD%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8+%E0%A4%B0%E0%A4%96%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81!;J'aime+cr%C3%A9er+du+code+efficace+mais+je+crois+aussi+aux+bonnes+documentations+!;+%C2%A1Me+gusta+crear+c%C3%B3digo+eficiente+pero+tambi%C3%A9n+creo+en+excelentes+documentaciones!" alt="Typing SVG" /></a>
+</p>
 
 <!-- <h1 align="center">Hi There 👋, I'm Saurabh</h1> -->
-<h3 align="center">I like crafting efficient code but also believe in great documentations !</h3>
+<!--<h3 align="center">I like crafting efficient code but also believe in great documentations !</h3>-->
 
 ###
 
@@ -34,7 +38,8 @@
   
 </div>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img width="120" />
 
 - 🌱 I’m currently learning **Quantitative Finance**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
