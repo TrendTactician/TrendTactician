@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There<img src="https://github.com/SpQpS/SpQpS/assets/87906226/7e211df2-08b1-4e40-a1cf-981443eafb95" width="40" height="35">, I'm Saurabh</h1>
+<h1 align="center">Hi There<img src="https://github.com/trendtactician/trendtactician/assets/87906226/7e211df2-08b1-4e40-a1cf-981443eafb95" width="40" height="35">, I'm Saurabh</h1>
 
 
 <!-- <style>
@@ -23,7 +23,7 @@
 </style> -->
 
 <p align="center">
-  <a align="center" href="https://github.com/spqps/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&center=true&random=false&width=750&lines=I+like+crafting+efficient+code+but+also+believe+in+great+documentations+!;%E7%A7%81%E3%81%AF%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E5%84%AA%E3%82%8C%E3%81%9F%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%82%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82;Ich+mag+es%2C+effizienten+Code+zu+erstellen%2C+glaube+aber+auch+an+gro%C3%9Fartige+Dokumentationen!;+%E0%A4%AE%E0%A5%81%E0%A4%9D%E0%A5%87+%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A4%B2+%E0%A4%95%E0%A5%8B%E0%A4%A1+%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE+%E0%A4%AA%E0%A4%B8%E0%A4%82%E0%A4%A6+%E0%A4%B9%E0%A5%88+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%AC%E0%A5%87%E0%A4%B9%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%A8+%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AD%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8+%E0%A4%B0%E0%A4%96%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81!;J'aime+cr%C3%A9er+du+code+efficace+mais+je+crois+aussi+aux+bonnes+documentations+!;+%C2%A1Me+gusta+crear+c%C3%B3digo+eficiente+pero+tambi%C3%A9n+creo+en+excelentes+documentaciones!" alt="Typing SVG" /></a>
+  <a align="center" href="https://github.com/trendtactician/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&center=true&random=false&width=750&lines=I+like+crafting+efficient+code+but+also+believe+in+great+documentations+!;%E7%A7%81%E3%81%AF%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E5%84%AA%E3%82%8C%E3%81%9F%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%82%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82;Ich+mag+es%2C+effizienten+Code+zu+erstellen%2C+glaube+aber+auch+an+gro%C3%9Fartige+Dokumentationen!;+%E0%A4%AE%E0%A5%81%E0%A4%9D%E0%A5%87+%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A4%B2+%E0%A4%95%E0%A5%8B%E0%A4%A1+%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE+%E0%A4%AA%E0%A4%B8%E0%A4%82%E0%A4%A6+%E0%A4%B9%E0%A5%88+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%AC%E0%A5%87%E0%A4%B9%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%A8+%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AD%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8+%E0%A4%B0%E0%A4%96%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81!;J'aime+cr%C3%A9er+du+code+efficace+mais+je+crois+aussi+aux+bonnes+documentations+!;+%C2%A1Me+gusta+crear+c%C3%B3digo+eficiente+pero+tambi%C3%A9n+creo+en+excelentes+documentaciones!" alt="Typing SVG" /></a>
 </p>
 
 <!-- <h1 align="center">Hi There 👋, I'm Saurabh</h1> -->
@@ -32,9 +32,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spqps&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spqps&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=spqps&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=trendtactician&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trendtactician&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=trendtactician&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> -->
   
 </div>
 
