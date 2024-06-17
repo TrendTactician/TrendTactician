@@ -38,11 +38,8 @@
   
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-<img width="70" />
-
-- 🌱 I’m currently learning **Quantitative Finance**
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 🌱 I’m currently learning **Quantitative Finance**  <img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+- 👯 I’m looking to collaborate on **Machine Learning Projects** 
 - 💡 I have a keen interest in **Finance & Technology**
 - ⚡ Fun fact about me **Sometimes I read documentation**
 <!-- 👨‍💻 All of my projects are available at -->
