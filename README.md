@@ -38,7 +38,7 @@
   
 </div>
 
-<img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> <p>   </p>
 
 
 - 🌱 I’m currently learning **Quantitative Finance**
