@@ -39,7 +39,7 @@
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-<img width="120" />
+<img width="70" />
 
 - 🌱 I’m currently learning **Quantitative Finance**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
