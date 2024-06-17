@@ -37,8 +37,6 @@
   <!-- <img src="https://streak-stats.demolab.com?user=trendtactician&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> -->
   
 </div>
-<p></p>
-
 
 <img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
