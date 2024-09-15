@@ -41,9 +41,9 @@
 <img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> <p>   </p>
 
 
-- 🌱 I’m currently learning **Quantitative Finance**
+- 🌱 I’m currently learning **Quantitative Methods**
 - 👯 I’m looking to collaborate on **Machine Learning Projects** 
-- 💡 I have a keen interest in **Finance & Technology**
+- 💡 I have a keen interest in **Technology**
 - ⚡ Fun fact about me **Sometimes I read documentation**
 <!-- 👨‍💻 All of my projects are available at -->
 
