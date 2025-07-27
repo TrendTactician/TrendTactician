@@ -37,7 +37,7 @@
   <!-- <img src="https://streak-stats.demolab.com?user=trendtactician&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> -->
   
 </div>
-
+<br>
 <img align="right" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> <p>   </p>
 
 
@@ -45,7 +45,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects** 
 - 💡 I have a keen interest in **Technology**, **Healthcare** and **Finance**
 - ⚡ Fun fact about me **Sometimes I read documentation**
-<!-- 👨‍💻 All of my projects are available at -->
+- 👨‍💻 In every difficulty lies an **opportunity to improve**
 
  <!-- <h3 align="left">Connect with me:</h3>
   <div align="center">
@@ -81,8 +81,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/test122#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/test122#gh-dark-mode-only) -->
 
-### Languages & Tools
+<hr style="height:5px; background-color:#eaeaea; border:none;"/>
 
+<p align="center"><strong>Languages & Tools</strong></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
